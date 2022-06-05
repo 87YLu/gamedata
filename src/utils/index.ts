@@ -1,0 +1,5 @@
+export { default as testFileName } from './testFileName'
+export { default as makeDir } from './makeDir'
+export { default as getTime } from './getTime'
+export { default as zipDir } from './zipDir'
+export { default as deleteFolder } from './deleteFolder'
